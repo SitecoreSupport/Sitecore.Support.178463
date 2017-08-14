@@ -74,7 +74,6 @@
     <Content Include="App_Config\Include\zzz\Sitecore.Support.178463.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.178463.z.CD.config.DISABLED" />
     <None Include="packages.config" />
     <None Include="web.config" />
   </ItemGroup>
