@@ -4,7 +4,8 @@
           <site name="analytics_operations"> 
 			<patch:attribute name="content" value="web" />
 			<patch:attribute name="database" value="web" />
-		  </site >
+			<patch:attribute name="analyticsDefinitions" value="web" />
+          </site >
       </sites>
   </sitecore>
 </configuration>
